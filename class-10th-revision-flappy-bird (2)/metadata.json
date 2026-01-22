@@ -1,0 +1,7 @@
+{
+  "name": "Class 10th Revision Flappy Bird",
+  "description": "A fun Flappy Bird style game designed for CBSE Class 10th revision. Answer hard MCQs in Science, Maths, English, or SST to revive and keep your score!",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
